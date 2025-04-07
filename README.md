@@ -1,6 +1,6 @@
-# Hi there I am M.Ranu wibowo from 🇮🇩
-🔍 I am focusing on web development/game development
-🤝 I am looking for help with the backend
+# 👋 Hi there I am M.Ranu wibowo from Indonesia 🇮🇩
+🔍 I am concentrating on web development and game development.
+🤝 Looking for help with the backend
 🛠️ Currently learning Laravel 
 
 ## 🌐 Socials:
