@@ -1,4 +1,4 @@
-# Hi there I am M.Ranu wibowo from 🇮🇩
+ Hi there I am M.Ranu wibowo from 🇮🇩
 🔍 I am focusing on web development/game development
 🤝 I am looking for help with the backend
 🛠️ Currently learning Laravel 
