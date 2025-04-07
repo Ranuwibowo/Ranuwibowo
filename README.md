@@ -1,4 +1,8 @@
- 
+# Hi there I am M.Ranu wibowo from 🇮🇩
+🔍 I am focusing on web development/game development
+🤝 I am looking for help with the backend
+🛠️ Currently learning Laravel 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ranuwibowow2020) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ranu Wibowo  ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranuwibowo2024@gmail.com) 
 
